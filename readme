@@ -1,0 +1,32 @@
+Group 6:
+
+Yagna Namburi : 11905171
+Prarabdh Joshi
+To clean : make clean
+
+Frist you have to create bin and bin.meta files.
+For that do
+To make the file : make a1-test.out
+To run the file: ./a1-test.out
+
+There was no supplier option in a1-test.cc. So I added the supplier table as 8th option.
+
+once the files are generated the do
+
+To make the file : make main
+To run the file: ./main.out
+
+changed the paths in test.cat
+these are the paths I used
+
+/home/yagna/Downloads/a5/catalog
+
+/home/yagna/git/tpch-dbgen/
+
+
+
+The queries hich I ran are in queries.execute file provided by the professor which I put in the same folder.
+
+The outputs for each query are put as pics labelled from a5-1.png to a5-7.png .
+
+Last but not least I am removing all the bin and bin.meta files for submitting this project as they are large in size.
